@@ -1,2 +1,4 @@
 # prova10
-descrizione
+raspberry:
+
+sudo apt-get install sqlite3
